@@ -1,0 +1,51 @@
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\bin\Debug\MapLabeler.exe.config
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\bin\Debug\MapLabeler.exe
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\bin\Debug\MapLabeler.pdb
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csprojAssemblyReference.cache
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\Interop.MLApp.dll
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.ResolveComReference.cache
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MainWindow.g.cs
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\App.g.cs
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler_MarkupCompile.cache
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler_MarkupCompile.lref
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MainWindow.baml
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.g.resources
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.Properties.Resources.resources
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.GenerateResource.cache
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.CoreCompileInputs.cache
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.exe
+C:\Users\repfe\Desktop\MapLabeler\MapLabeler\obj\Debug\MapLabeler.pdb
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\bin\Debug\MapLabeler.exe.config
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\bin\Debug\MapLabeler.exe
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\bin\Debug\MapLabeler.pdb
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csprojAssemblyReference.cache
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\Interop.MLApp.dll
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.ResolveComReference.cache
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MainWindow.g.cs
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\App.g.cs
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler_MarkupCompile.cache
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler_MarkupCompile.lref
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MainWindow.baml
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.g.resources
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.Properties.Resources.resources
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.GenerateResource.cache
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.CoreCompileInputs.cache
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.exe
+D:\UW\Courses\Fall 2020\COMP SCI 639\Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.pdb
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\bin\Debug\MapLabeler.exe.config
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\bin\Debug\MapLabeler.exe
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\bin\Debug\MapLabeler.pdb
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csprojAssemblyReference.cache
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\Interop.MLApp.dll
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.ResolveComReference.cache
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MainWindow.g.cs
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\App.g.cs
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler_MarkupCompile.cache
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler_MarkupCompile.lref
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MainWindow.baml
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.g.resources
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.Properties.Resources.resources
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.GenerateResource.cache
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.csproj.CoreCompileInputs.cache
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.exe
+C:\Users\repfe\Desktop\CS639Project\MapLabeler\MapLabeler\obj\Debug\MapLabeler.pdb

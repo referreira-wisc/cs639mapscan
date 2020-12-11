@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLabeler", "MapLabeler.csproj", "{649DBA08-196C-4E58-B082-570C01E48703}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{649DBA08-196C-4E58-B082-570C01E48703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{649DBA08-196C-4E58-B082-570C01E48703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{649DBA08-196C-4E58-B082-570C01E48703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{649DBA08-196C-4E58-B082-570C01E48703}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD18AE7-0C64-42A4-8353-DD8EC98C3216}
+	EndGlobalSection
+EndGlobal
